@@ -1,6 +1,5 @@
-import React from "react";
+// import React from "react";
 var $$ = React.createElement;
-
 
 export class ToolComponent extends React.Component {
   constructor(props) {
